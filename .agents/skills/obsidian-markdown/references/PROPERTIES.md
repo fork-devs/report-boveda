@@ -1,11 +1,3 @@
----
-title: "Properties (Frontmatter) Reference"
-tags:
-  - .agents-skills-obsidian-markdown-references
-aliases:
-  - "Properties (Frontmatter) Reference"
----
-
 # Properties (Frontmatter) Reference
 
 Properties use YAML frontmatter at the start of a note:

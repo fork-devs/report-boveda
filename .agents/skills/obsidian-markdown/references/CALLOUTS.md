@@ -1,11 +1,3 @@
----
-title: "Callouts Reference"
-tags:
-  - .agents-skills-obsidian-markdown-references
-aliases:
-  - "Callouts Reference"
----
-
 # Callouts Reference
 
 ## Basic Callout

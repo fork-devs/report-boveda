@@ -1,11 +1,3 @@
----
-title: "Embeds Reference"
-tags:
-  - agent-skills-obsidian-markdown-references
-aliases:
-  - "Embeds Reference"
----
-
 # Embeds Reference
 
 ## Embed Notes
