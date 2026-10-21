@@ -1,0 +1,191 @@
+{
+  "nodes": [
+    {
+      "id": "content",
+      "type": "file",
+      "file": "preliminares/contenido.md",
+      "x": 0,
+      "y": 0,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "preliminares_registro-de-versiones-del-informe",
+      "type": "file",
+      "file": "preliminares/registro-de-versiones-del-informe.md",
+      "x": -320,
+      "y": 160,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "preliminares_student-outcome",
+      "type": "file",
+      "file": "preliminares/student-outcome.md",
+      "x": 0,
+      "y": 160,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "capitulo-i_capitulo-i-introduccion",
+      "type": "file",
+      "file": "capitulo-i/capitulo-i-introduccion.md",
+      "x": 320,
+      "y": 160,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "capitulo-ii_capitulo-ii-requirements-analysis",
+      "type": "file",
+      "file": "capitulo-ii/capitulo-ii-requirements-analysis.md",
+      "x": -320,
+      "y": 320,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "capitulo-iii_capitulo-iii-requirements-specification",
+      "type": "file",
+      "file": "capitulo-iii/capitulo-iii-requirements-specification.md",
+      "x": 0,
+      "y": 320,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "capitulo-iv_capitulo-iv-diseno-de-la-arquitectura-de-software",
+      "type": "file",
+      "file": "capitulo-iv/capitulo-iv-diseno-de-la-arquitectura-de-software.md",
+      "x": 320,
+      "y": 320,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "capitulo-v_capitulo-v-product-implementation-validation-deployment",
+      "type": "file",
+      "file": "capitulo-v/capitulo-v-product-implementation-validation-deployment.md",
+      "x": -320,
+      "y": 480,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "anexos_anexo-a-student-outcome-7",
+      "type": "file",
+      "file": "anexos/anexo-a-student-outcome-7.md",
+      "x": 0,
+      "y": 480,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "anexos_anexo-b-informe-individual-de-rendimiento",
+      "type": "file",
+      "file": "anexos/anexo-b-informe-individual-de-rendimiento.md",
+      "x": 320,
+      "y": 480,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "anexos_anexo-c-exposicion-del-trabajo-parcial",
+      "type": "file",
+      "file": "anexos/anexo-c-exposicion-del-trabajo-parcial.md",
+      "x": -320,
+      "y": 640,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "cierre_bibliografia",
+      "type": "file",
+      "file": "cierre/bibliografia.md",
+      "x": 0,
+      "y": 640,
+      "width": 260,
+      "height": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "fromNode": "content",
+      "toNode": "preliminares_registro-de-versiones-del-informe",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e1",
+      "fromNode": "content",
+      "toNode": "preliminares_student-outcome",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e2",
+      "fromNode": "content",
+      "toNode": "capitulo-i_capitulo-i-introduccion",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e3",
+      "fromNode": "content",
+      "toNode": "capitulo-ii_capitulo-ii-requirements-analysis",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "content",
+      "toNode": "capitulo-iii_capitulo-iii-requirements-specification",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e5",
+      "fromNode": "content",
+      "toNode": "capitulo-iv_capitulo-iv-diseno-de-la-arquitectura-de-software",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e6",
+      "fromNode": "content",
+      "toNode": "capitulo-v_capitulo-v-product-implementation-validation-deployment",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e7",
+      "fromNode": "content",
+      "toNode": "anexos_anexo-a-student-outcome-7",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "content",
+      "toNode": "anexos_anexo-b-informe-individual-de-rendimiento",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "content",
+      "toNode": "anexos_anexo-c-exposicion-del-trabajo-parcial",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e10",
+      "fromNode": "content",
+      "toNode": "cierre_bibliografia",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}
