@@ -1,0 +1,3 @@
+## ***CAPÍTULO III: Requirements Specification*** {#capítulo-iii:-requirements-specification}
+
+Este capítulo define los requisitos iniciales de DriveOS Workshop para los dos segmentos B2B establecidos en el proyecto: el personal de gestión y propietarios del taller, y el personal operativo representado por los técnicos mecánicos. La especificación parte de las necesidades identificadas en las entrevistas y de las ocho hipótesis Lean UX vinculadas con órdenes digitales, telemetría OBD-II, alertas preventivas, evidencia fotográfica, inventario FIFO, agenda de bahías, control de tiempos, continuidad operativa y facturación electrónica.

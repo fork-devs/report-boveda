@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "41aa6ba7a557ef93",
+    "type": "split",
+    "children": [
+      {
+        "id": "db2428f2ea9d7fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d5b6a3576fa062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "preliminares/contenido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14026a9fabf220e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f274be879fa41dd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad80240b2ff8e98a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1451405675b83452",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b5a2e9269fc6e7ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5892b32ac2a3eb24",
+    "type": "split",
+    "children": [
+      {
+        "id": "d388c82dddfa4ef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31d59876c1631bec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "capitulo-i/capitulo-i-introduccion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "0390a4a000063b37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "capitulo-i/capitulo-i-introduccion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "c21c8050bb8c6d32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "aa67026e2621dd7a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "5878e4587e4ae14a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "preliminares/contenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "a1eb0261b08658f9",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-terminal",
+              "state": {},
+              "icon": "terminal",
+              "title": "Opencode"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 614.02734375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "opencode:Opencode terminal": false,
+      "opencode:Opencode conversations": false,
+      "obsidian-git:Open Git source control": false,
+      "lean-terminal:Open terminal": false
+    }
+  },
+  "active": "d2d5b6a3576fa062",
+  "lastOpenFiles": [
+    "preliminares/registro-de-versiones-del-informe.md",
+    "preliminares/student-outcome.md",
+    "preliminares/contenido.md",
+    "preliminares/00-portada.md",
+    "cierre/bibliografia.md",
+    "preliminares",
+    "cierre",
+    "capitulo-v/capitulo-v-product-implementation-validation-deployment.md",
+    "capitulo-v/5.3.1.8-kanban-board.md",
+    "capitulo-v/5.3.1.7-team-collaboration-insights-during-sprint.md",
+    "capitulo-v/5.3.1.6-software-deployment-evidence-for-sprint-review.md",
+    "capitulo-v/5.3.1.5-microservices-documentation-evidence-for-sprint-review.md",
+    "capitulo-v/5.3.1.4-execution-evidence-for-sprint-review.md",
+    "capitulo-v/5.3.1.3-testing-suite-evidence-for-sprint-review.md",
+    "capitulo-v/5.3.1.2-development-evidence-for-sprint-review.md",
+    "capitulo-v/5.3.1.1-sprint-backlog-1.md",
+    "capitulo-v/5.3.1-sprint-1.md",
+    "capitulo-v/5.3-microservices-implementation.md",
+    "capitulo-v/5.2.4-software-deployment-configuration.md",
+    "capitulo-v/5.2.3-source-code-style-guide-conventions.md",
+    "capitulo-v/5.2.2-source-code-management.md",
+    "capitulo-v/5.2.1-software-development-environment-configuration.md",
+    "capitulo-v/5.2-software-configuration-management.md",
+    "capitulo-v/5.1.testing-suites-general-patterns.md",
+    "capitulo-v/5.1.4.framework-pattern-driven-refactoring-report.md",
+    "capitulo-v/5.1.3.pattern-based-custom-software-library.md",
+    "capitulo-v/5.1.2.pattern-based-backend-application-s-2.md",
+    "capitulo-v/5.1.2.pattern-based-backend-application-s.md",
+    "capitulo-v",
+    "capitulo-iv",
+    "capitulo-iii",
+    "capitulo-ii",
+    "capitulo-i",
+    "assets/image9.png",
+    "assets/image88.png",
+    "assets/image87.png",
+    "assets/image86.png",
+    "assets/image85.png",
+    "assets/image84.png",
+    "assets/image83.png",
+    "assets/image82.png",
+    "assets/image81.png",
+    "assets/image80.png",
+    "assets",
+    "anexos",
+    "doc/split/cierre"
+  ]
+}
