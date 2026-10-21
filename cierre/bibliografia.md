@@ -1,3 +1,11 @@
+---
+title: "Bibliografía:"
+tags:
+  - cierre
+aliases:
+  - "Bibliografía:"
+---
+
 ### ***Bibliografía:*** {#bibliografía:}
 
 Apache Software Foundation. (2023). *Apache Kafka: A distributed streaming platform documentation.* https\://kafka.apache.org/documentation/
@@ -34,46 +42,6 @@ Richardson, C. (2018). *Microservices patterns: With examples in Java.* Manning 
 
 Superintendencia Nacional de Aduanas y de Administración Tributaria \[SUNAT\]. (2023). *Manual técnico del Sistema de Emisión Electrónica de Comprobantes de Pago (SEE \- Del Emisor Electrónico UBL 2.1).* Gobierno del Perú. https\://orientacion.sunat.gob.pe/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  "To-Be Scenario Map del gestor o propietario del taller"
 
  "To-Be Scenario Map del técnico mecánico"
@@ -93,3 +61,8 @@ Superintendencia Nacional de Aduanas y de Administración Tributaria \[SUNAT\]. 
  "Impact Map BG07 de DriveOS Workshop"
 
  "Impact Map BG08 de DriveOS Workshop"
+
+## Relaciones
+
+- Padre: [[preliminares/contenido|CONTENIDO]]
+- Índice: [[preliminares/contenido|CONTENIDO]]

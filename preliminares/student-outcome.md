@@ -1,3 +1,11 @@
+---
+title: "STUDENT OUTCOME"
+tags:
+  - preliminares
+aliases:
+  - "STUDENT OUTCOME"
+---
+
 # ***STUDENT OUTCOME*** {#student-outcome}
 
 Esta tabla describe las acciones realizadas y enunciados de conclusiones por parte del equipo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome.
@@ -14,3 +22,8 @@ Esta tabla describe las acciones realizadas y enunciados de conclusiones por par
 # 
 
 #
+
+## Relaciones
+
+- Padre: [[preliminares/contenido|CONTENIDO]]
+- Índice: [[preliminares/contenido|CONTENIDO]]
