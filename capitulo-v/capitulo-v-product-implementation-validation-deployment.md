@@ -1,3 +1,11 @@
+---
+title: "Capítulo V: Product Implementation, Validation & Deployment"
+tags:
+  - capitulo-v
+aliases:
+  - "Capítulo V: Product Implementation, Validation & Deployment"
+---
+
 ### ***Capítulo V: Product Implementation, Validation & Deployment***  {#capítulo-v:-product-implementation,-validation-&-deployment}
 
 ###

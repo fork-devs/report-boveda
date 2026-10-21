@@ -1,9 +1,9 @@
 filters:
   and:
-    - 'file.hasExtension("md")'
+    - file.hasExtension("md")
 views:
   - type: table
-    name: "Notas del vault"
+    name: Notas del vault
     order:
       - file.name
       - file.folder

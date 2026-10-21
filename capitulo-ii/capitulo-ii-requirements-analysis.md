@@ -1,3 +1,11 @@
+---
+title: "Capítulo II: Requirements  & Analysis"
+tags:
+  - capitulo-ii
+aliases:
+  - "Capítulo II: Requirements  & Analysis"
+---
+
 # ***Capítulo II: Requirements  & Analysis*** {#capítulo-ii:-requirements-&-analysis}
 
 ## Relaciones

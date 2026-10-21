@@ -1,3 +1,11 @@
+---
+title: "CONTENIDO"
+tags:
+  - preliminares
+aliases:
+  - "CONTENIDO"
+---
+
 # ***CONTENIDO*** {#contenido}
 
 [**REGISTRO DE VERSIONES DEL INFORME	2**](#registro-de-versiones-del-informe)

@@ -1,3 +1,11 @@
+---
+title: "Anexo B: Informe Individual de Rendimiento:"
+tags:
+  - anexos
+aliases:
+  - "Anexo B: Informe Individual de Rendimiento:"
+---
+
 ### ***Anexo B: Informe Individual de Rendimiento:***  {#anexo-b:-informe-individual-de-rendimiento:}
 
 **Coordinador del Equipo (Team Leader):** Luis Daniel Granda Ibarra (Código: U20241E401)

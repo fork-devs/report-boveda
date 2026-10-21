@@ -1,3 +1,11 @@
+---
+title: "Relaciones"
+tags:
+  - preliminares
+aliases:
+  - "Relaciones"
+---
+
 	
 
 			

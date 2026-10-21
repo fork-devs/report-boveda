@@ -1,3 +1,11 @@
+---
+title: "REGISTRO DE VERSIONES DEL INFORME"
+tags:
+  - preliminares
+aliases:
+  - "REGISTRO DE VERSIONES DEL INFORME"
+---
+
 # ***REGISTRO DE VERSIONES DEL INFORME*** {#registro-de-versiones-del-informe}
 
 | Versión | Fecha | Autor | Descripción de modificación |

@@ -1,3 +1,11 @@
+---
+title: "Anexo A: Student Outcome 7"
+tags:
+  - anexos
+aliases:
+  - "Anexo A: Student Outcome 7"
+---
+
 ### ***Anexo A: Student Outcome 7***  {#anexo-a:-student-outcome-7}
 
 | Criterio Específico | Acciones Realizadas (Por Integrante en TP1) | Conclusiones Grupales TP1 |

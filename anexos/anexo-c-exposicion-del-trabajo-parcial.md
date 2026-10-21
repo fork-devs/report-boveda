@@ -1,3 +1,11 @@
+---
+title: "Anexo C: Exposición del Trabajo Parcial"
+tags:
+  - anexos
+aliases:
+  - "Anexo C: Exposición del Trabajo Parcial"
+---
+
 ### ***Anexo C: Exposición del Trabajo Parcial***  {#anexo-c:-exposición-del-trabajo-parcial}
 
 A continuación, se documenta el enlace a la carpeta compartida en Google Drive que  

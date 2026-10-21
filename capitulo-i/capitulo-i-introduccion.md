@@ -1,3 +1,11 @@
+---
+title: "CAPÍTULO I: Introducción"
+tags:
+  - capitulo-i
+aliases:
+  - "CAPÍTULO I: Introducción"
+---
+
 # ***CAPÍTULO I: Introducción*** {#capítulo-i:-introducción}
 
 ## Relaciones
