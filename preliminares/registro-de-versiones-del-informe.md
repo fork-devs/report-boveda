@@ -1,3 +1,11 @@
+---
+title: "REGISTRO DE VERSIONES DEL INFORME"
+tags:
+  - preliminares
+aliases:
+  - "REGISTRO DE VERSIONES DEL INFORME"
+---
+
 # ***REGISTRO DE VERSIONES DEL INFORME*** {#registro-de-versiones-del-informe}
 
 | Versión | Fecha | Autor | Descripción de modificación |
@@ -21,3 +29,8 @@
 | 3.0 | 08/10/2026 | Todos los integrantes | Subsanación del feedback docente: trazabilidad de drivers, vistas por BC, referencias APA y Anexos A y B. |
 | 3.1 | 8/10/2026 | Aldo Jeanfranco Machacca Soto | micro servicio [erp-integration-hub](https://github.com/fork-devs/erp-integration-hub)  [erp-auth-service](https://github.com/fork-devs/erp-auth-service) [erp-tenant-service](https://github.com/fork-devs/erp-tenant-service) [erp-api-gateway](https://github.com/fork-devs/erp-api-gateway)  |
 | 3.2 | 8/10/2026 | Luis Daniel Granda Ibarra | micro servicio [erp-inventory-service](https://github.com/fork-devs/erp-inventory-service)   [erp-fleet-service](https://github.com/fork-devs/erp-fleet-service)  |
+
+## Relaciones
+
+- Padre: [[preliminares/contenido|CONTENIDO]]
+- Índice: [[preliminares/contenido|CONTENIDO]]

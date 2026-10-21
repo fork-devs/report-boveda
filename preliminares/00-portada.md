@@ -1,3 +1,11 @@
+---
+title: "Relaciones"
+tags:
+  - preliminares
+aliases:
+  - "Relaciones"
+---
+
 	
 
 			
@@ -27,3 +35,7 @@
 | Jorge Brayan Ayala Fernandez   | U20241C030   |
 | Aldo Jeanfranco Machacca Soto   | U202419485   |
 | Rafael Barrenechea Bustamante   | U202417417   |
+
+## Relaciones
+
+- Índice: [[preliminares/contenido|CONTENIDO]]
