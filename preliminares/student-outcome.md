@@ -14,3 +14,8 @@ Esta tabla describe las acciones realizadas y enunciados de conclusiones por par
 # 
 
 #
+
+## Relaciones
+
+- Padre: [[preliminares/contenido|CONTENIDO]]
+- Índice: [[preliminares/contenido|CONTENIDO]]

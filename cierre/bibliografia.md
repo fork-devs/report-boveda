@@ -93,3 +93,8 @@ Superintendencia Nacional de Aduanas y de Administración Tributaria \[SUNAT\]. 
  "Impact Map BG07 de DriveOS Workshop"
 
  "Impact Map BG08 de DriveOS Workshop"
+
+## Relaciones
+
+- Padre: [[preliminares/contenido|CONTENIDO]]
+- Índice: [[preliminares/contenido|CONTENIDO]]

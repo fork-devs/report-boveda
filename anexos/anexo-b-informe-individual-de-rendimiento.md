@@ -11,3 +11,8 @@
 | U202417417 | Barrenechea Bustamante, Rafael | Integration & API Engineer | • Implementación de ServicesController y catálogo de servicios de taller. • Documentación exhaustiva de endpoints en OpenAPI 3.0 / Swagger UI interactivo. • Preparación de colecciones de prueba en Postman y ejecución de verificaciones. • Alto compromiso técnico y proactividad constante en el desarrollo del sprint. | 20 |
 
 **Declaración Formal del Team Leader:** En mi rol de Team Leader del equipo ForkDevs, certifico que la totalidad de los miembros demostró un rendimiento de excelencia, colaborando de forma balanceada y activa durante la construcción de los microservicios del Sprint 1\. Todos los criterios de evaluación funcional, arquitectural y metodológica fueron superados con éxito, cumpliendo con los 21 Story Points comprometidos sin desajustes. Por consiguiente, asigno con pleno sustento técnico la calificación máxima de 20 (veinte) puntos a cada integrante.
+
+## Relaciones
+
+- Padre: [[preliminares/contenido|CONTENIDO]]
+- Índice: [[preliminares/contenido|CONTENIDO]]

@@ -333,3 +333,32 @@
 [Anexo C: Exposición del Trabajo Parcial	193](#anexo-c:-exposición-del-trabajo-parcial)
 
 [Bibliografía:	193](#bibliografía:)
+
+## Relaciones
+
+- Hijos:
+  - [[anexos/anexo-a-student-outcome-7|Anexo A: Student Outcome 7]]
+  - [[anexos/anexo-b-informe-individual-de-rendimiento|Anexo B: Informe Individual de Rendimiento:]]
+  - [[anexos/anexo-c-exposicion-del-trabajo-parcial|Anexo C: Exposición del Trabajo Parcial]]
+  - [[cierre/bibliografia|Bibliografía:]]
+  - [[capitulo-i/capitulo-i-introduccion|CAPÍTULO I: Introducción]]
+  - [[capitulo-ii/capitulo-ii-requirements-analysis|Capítulo II: Requirements  & Analysis]]
+  - [[capitulo-iii/capitulo-iii-requirements-specification|CAPÍTULO III: Requirements Specification]]
+  - [[capitulo-iv/capitulo-iv-diseno-de-la-arquitectura-de-software|CAPÍTULO IV: Diseño de la Arquitectura de Software]]
+  - [[capitulo-v/capitulo-v-product-implementation-validation-deployment|Capítulo V: Product Implementation, Validation & Deployment]]
+  - [[preliminares/registro-de-versiones-del-informe|REGISTRO DE VERSIONES DEL INFORME]]
+  - [[preliminares/student-outcome|STUDENT OUTCOME]]
+
+## Notas del vault
+
+- [[anexos/anexo-a-student-outcome-7|Anexo A: Student Outcome 7]]
+- [[anexos/anexo-b-informe-individual-de-rendimiento|Anexo B: Informe Individual de Rendimiento:]]
+- [[anexos/anexo-c-exposicion-del-trabajo-parcial|Anexo C: Exposición del Trabajo Parcial]]
+- [[cierre/bibliografia|Bibliografía:]]
+- [[capitulo-i/capitulo-i-introduccion|CAPÍTULO I: Introducción]]
+- [[capitulo-ii/capitulo-ii-requirements-analysis|Capítulo II: Requirements  & Analysis]]
+- [[capitulo-iii/capitulo-iii-requirements-specification|CAPÍTULO III: Requirements Specification]]
+- [[capitulo-iv/capitulo-iv-diseno-de-la-arquitectura-de-software|CAPÍTULO IV: Diseño de la Arquitectura de Software]]
+- [[capitulo-v/capitulo-v-product-implementation-validation-deployment|Capítulo V: Product Implementation, Validation & Deployment]]
+- [[preliminares/registro-de-versiones-del-informe|REGISTRO DE VERSIONES DEL INFORME]]
+- [[preliminares/student-outcome|STUDENT OUTCOME]]

@@ -11,3 +11,8 @@ Link: [https\://drive.google.com/drive/folders/1tBp5uDYbcyl5v6gc\_5RCdfLybPs9xAN
 \- Ayala Fernandez, Jorge Brayan (U20241C030)   
 \- Machacca Soto, Aldo Jeanfranco (U202419485)  
 \- Barrenechea Bustamante, Rafael (U202417417)
+
+## Relaciones
+
+- Padre: [[preliminares/contenido|CONTENIDO]]
+- Índice: [[preliminares/contenido|CONTENIDO]]
